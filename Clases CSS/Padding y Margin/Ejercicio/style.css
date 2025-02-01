@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+}
+
+.card {
+    background: rgb(109, 21, 45);
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+h1 {
+    padding-top: 15px;
+    font-size: 20px;
+    margin: 0;
+}
+
+h2{
+    font-size: 15px;
+    font-weight: 100;
+}
+
+p {
+    font-size: 10px;
+    padding: 20px;
+    background: rgb(152, 41, 71);
+    text-align: justify;
+}

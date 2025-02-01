@@ -1,0 +1,32 @@
+.formulario {
+    background: rgb(109, 21, 45);
+    /* padding vertical y horizontal */
+    padding: 30px;
+
+    /* 
+    padding, va en orden de las manesillas del reloj (forma acortada) 
+    padding: 10px 20px 5px 30px;
+
+    PADDING (forma extensa) 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px; */
+}
+
+.formulario_input {
+    /* Espacio que rodea el contenido de un elemento */
+    padding: 9px 12px;
+    width: 90%;
+    background-color: rgb(211, 148, 164);
+    color: rgb(255, 255, 255);
+    margin: 7px;
+}
+
+.formulario_submit {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: rgb(185, 97, 121);
+    color: rgb(255, 255, 255);
+    width: 20%;
+}

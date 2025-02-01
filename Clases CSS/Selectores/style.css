@@ -1,0 +1,18 @@
+/* ESTRUCTURA PARA SELECCIONAR ELEMENTOS PUNTUALES
+Selector  +  { + propiedad(es) +  } */
+
+p {
+    color: black;
+}
+
+/* Se añade un . adelante para llamar una clase 
+Se modificaran todos los elementos que pertenezcan a esta */
+.ingrediente-faltante{
+    color: red;
+}
+
+/* Selector por id, se selecciona con # 
+Se utiliza para un solo elemento */
+#ingrediente-secreto {
+    color: blue;
+}

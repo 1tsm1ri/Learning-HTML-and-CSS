@@ -1,0 +1,33 @@
+p {
+    /* Color */
+    color: rgb(76, 14, 43);
+    /* Tipografia */
+    font-family: montserrat;
+    /* Tamaño del texto*/
+    font-size: 13px;
+    /* Grosor de la tipografia */
+    font-weight: 300;
+    /* Estilos de la fuente */
+    font-style: italic;
+    /* Alineacion del texto */
+    text-align: justify;
+    /* Formato de subrayado */
+    text-decoration: none;
+    /* Altura entre lineas */
+    line-height: 1;
+    /* Espacio entre las letras*/
+    letter-spacing: 2px;
+    /* Manejo de MAYUSCULAS y minusculas */
+    text-transform: none;
+}
+
+span {
+    text-decoration: line-through;
+    color: rgb(171, 20, 100);
+}
+
+h1 {
+    font-family: montserrat;
+    text-align: center;
+    text-transform: uppercase;
+}

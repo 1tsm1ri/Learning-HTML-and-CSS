@@ -1,0 +1,20 @@
+div {
+    background: rgb(75, 15, 47);
+    /* Ancho de la caja*/
+    width: 100%;
+    /* Alto de la caja */
+    height: 40px;
+}
+
+h1 {
+    color: beige;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+}
+
+form {
+    width: 300px;
+}
