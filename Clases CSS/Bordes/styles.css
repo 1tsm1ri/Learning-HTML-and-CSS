@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+
+div {
+    color: rgb(255, 255, 255);
+    background: rgb(171, 20, 100);
+    width:150px;
+    margin: auto;
+    text-align: center;
+}
+
+/*
+div {
+    Se puede resumir como: 
+    border: 3px solid black;
+    (border: width + color + style) 
+    border-width: 2px;
+    border-color: rgb(189, 220, 136);
+    border-style: solid;
+    border-radius: 5px;
+}
+*/
+
+div {
+    /* Se le puede dar un borde independiente cada parte */
+
+    /* border-top: 4px solid color */
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-top-color: rgb(76, 14, 43);
+
+    /* border-botton: 4px bottom color */
+    border-bottom-width: 4px;
+    border-bottom-style: double;
+    border-bottom-color: rgb(76, 14, 43);
+
+    border-left: 4px dashed  rgb(101, 7, 51);
+    border-right: 4px dotted  rgb(101, 7, 51);
+
+    /* Edicion independiente de radios 
+    - Edicion de a dos valores 
+    border-radius: 10px 50px;
+    (izq top & derec bottom - izq bottom & derec top)
+    - Edicion de todos los valores
+    border-radius: 10px 50px 20px 30px;
+    (izq top, derec top, derec bottom, izq bottom)
+    (Sentido de de las agujas del reloj)
+    */ 
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+input {
+    margin: 10px;
+    padding: 6px 9px;
+    border: none;
+    border-bottom: 1px solid rgb(230, 186, 206);
+    background:transparent;
+    color: rgb(230, 186, 206);
+    border-radius: 3px;
+}
