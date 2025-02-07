@@ -43,4 +43,12 @@
     <ul>
         <li>&nbsp;&nbsp;&nbsp;00:00:00 - 03:37:57</li>
     </ul>
+     <br></br>
+    <img
+        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=false&vCenter=false&width=435&lines=Second+Day+♡+(05/02/2025)"
+        alt="Typing SVG"
+    >
+    <ul>
+        <li>&nbsp;&nbsp;&nbsp;00:00:00 - 03:53:45</li>
+    </ul>
 </details>
