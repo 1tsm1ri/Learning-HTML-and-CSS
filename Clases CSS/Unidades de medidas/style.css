@@ -1,0 +1,39 @@
+div {
+    background-color: rgb(185, 153, 164);
+    padding: 20px;
+    font-family: monospace;
+    border-left: 5px solid rgb(154, 79, 105);
+}
+
+h1 {
+    margin: 0;
+    font-size: 22px;
+    color: rgb(105, 22, 51);
+}
+
+span {
+    color: rgb(122, 60, 82);
+    font-size: 15px;
+    font-weight: 100;
+}
+
+p {
+    color: rgb(40, 27, 33);
+}
+
+/* UNIDADES DE PEDIDA
+Medidas absolutas
+- Pixeles (px): medida NO fisica
+- Milimetros (mm), centimetros (cm), pulgadas (in): medida fisica
+
+Unidades relativas
+- porcentaje (%): es respecto al tamaño que lo contiene
+- EM (em): se basa en el elemento padre
+- REM (rem): se basa en el elemento raiz (html)  |  valor por defecto: 16px
+
+Medidas del viewport
+- Viewport Weight (vw): ancho disponible que tenemos en la vista
+- Viewport Height (vh): altura disponible que tenemos en la vista
+- Viewprt max (vmax): sera igual al mas grade  | 1vmax = 1vh = 1vw
+- Viewport min (vmin): 1sera igual al mas chiquito  |  1vmin = 1vw = 1vh
+*/

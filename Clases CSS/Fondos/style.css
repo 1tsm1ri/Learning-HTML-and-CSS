@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(209, 154, 173);
+    margin: 0;
+    font-family: monospace;
+    color: rgb(82, 21, 42);
+}
+
+.box {
+    width: 100%;
+    height: 150px;
+    margin: 20px;
+    margin: 0;
+    background-color: rgba(127, 52, 78, 0.51);
+    top: 0;
+
+    /* Poner imagen de fondo */
+    background-image: url(https://cdn.discordapp.com/attachments/754162382330134618/1336563809036537936/image.png?ex=67a6e68c&is=67a5950c&hm=4233b1ffc4afb312e3fc53f8da3a6051e8ac23b08af2cce59603fceec325ff47&);
+
+    /* Que se adapte el tamaño de imagen al width 
+    - Se pueden usar %, px..
+    - Contain: fuerza la imagen a adaptarse
+    - Cover: se adapta a la resolucion
+    - background-position: top, bottom, center, left, right  |  se puede mover con medias como px (se pueden combinar)
+    */
+
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+
+    /* EVITAR QUE SE REPITA LA 
+    IMAGEN AL USAR CONTAIN
+    background-position: center; 
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    REPEAT:
+    - Se puede repetir de formas especificas
+    background-repeat: repeat-x; */
+
+    /* EN UNA SOLA LINEA DE "background" SE ESCRIBE:
+    background: image, position / size, repeat (opcional), attachment, color 
+    - EJEMPLO:
+    background: url(https://cdn.discordapp.com/attachments/754162382330134618/1336563809036537936/image.png?ex=67a6e68c&is=67a5950c&hm=4233b1ffc4afb312e3fc53f8da3a6051e8ac23b08af2cce59603fceec325ff47&) top / fixed rgba(127, 52, 78, 0.51)*/
+}
+
+.opaco {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(142, 49, 82, 0.5);
+}
+
+h2 {
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
