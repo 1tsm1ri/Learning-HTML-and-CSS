@@ -53,7 +53,7 @@
     </ul>
          <br></br>
     <img
-        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=false&vCenter=false&width=435&lines=Third+Day+♡+(05/02/2025)"
+        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=false&vCenter=false&width=435&lines=Third+Day+♡+(06/02/2025)"
         alt="Typing SVG"
     >
     <ul>
