@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: rgb(68, 10, 30);
+
+}
+
+.box {
+    width: 300px;
+    height: 400px;
+    margin: 0;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-top: 7px solid rgb(209, 154, 173);
+
+    /* GRADIENTE LINEAL 
+    background: linear-gradient
+    Se puede dar mas de dos colores
+    Se le puede dar un porcentaje al color
+        - Izquierda: to left 
+    -Derecha: to right 
+    - Abajo hacia arriba: to bottom
+    -Arriba hacia abajo: to top
+
+    GRADIENTE RADIAL
+    background: radial-gradient 
+
+    GRACIANTE CONICO
+    background: conic-gradient */
+    background: linear-gradient(transparent, rgba(209, 154, 173, 0.5));
+
+}
+
+h1 {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: monospace;
+    padding: 20px;
+}
