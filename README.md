@@ -19,7 +19,7 @@
 <p align='center'>
     <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=1135s&ab_channel=SoyDalto" target="_blank">
         <img 
-            src="https://media.discordapp.net/attachments/1309955522690023515/1335092306339958855/image.png?ex=679ee91a&is=679d979a&hm=dfcc022d0796daf999bf74236f7e4a2fa6c42c22e4ff6d6f7603a6c93981c103&=&format=webp&quality=lossless&width=885&height=175" alt="Curso de HTML y CSS desde CERO (Completo)"
+            src="https://cdn.discordapp.com/attachments/754162382330134618/1339090174151233547/image.png?ex=67ad7468&is=67ac22e8&hm=319a7cf9d8d529597cfb2d825cacb08fbba1022963fa2553768a02499f80bb18&width=885&height=175" alt="Curso de HTML y CSS desde CERO (Completo)"
         >
     </a>
 </p>
@@ -66,5 +66,13 @@
     >
     <ul>
         <li>&nbsp;&nbsp;&nbsp;05:05:45 - 05:57:18</li>
+    </ul>
+             <br></br>
+    <img
+        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=731433&center=false&vCenter=false&width=435&lines=Fifth+Day+♡+(11/02/2025)"
+        alt="Typing SVG"
+    >
+    <ul>
+        <li>&nbsp;&nbsp;&nbsp;05:57:18 - 06:44:35</li>
     </ul>
 </details>
